@@ -1,10 +1,11 @@
-# Проект по знакомству людей
+# Getting to know each other by heart
+with this dating app
 
-## Установка
+## install
 
 ### Backend
 
-1. Создайте виртуальное окружение:
+1. Create virtual environment
    ```bash
    python3 -m venv env
    source env/bin/activate  # Для Windows используйте `env\Scripts\activate`
@@ -12,9 +13,7 @@
 
 
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Create React App
 
 ## Available Scripts
 
