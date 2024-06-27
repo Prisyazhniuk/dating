@@ -1,3 +1,17 @@
+# Проект по знакомству людей
+
+## Установка
+
+### Backend
+
+1. Создайте виртуальное окружение:
+   ```bash
+   python3 -m venv env
+   source env/bin/activate  # Для Windows используйте `env\Scripts\activate`
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
